@@ -4,7 +4,7 @@
 
 ### Context
 This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api .
-The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment using Natural Lnaguage Processing(NLP
+The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment using Natural Lnaguage Processing(NLP)
 
 ### Content
 1.It contains the following 6 fields:
