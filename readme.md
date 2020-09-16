@@ -3,7 +3,7 @@
 ### Source URL: [https://www.kaggle.com/kazanova/sentiment140](https://www.kaggle.com/kazanova/sentiment140)
 
 ### Context
-This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api .
+This is the sentiment140 dataset of twitter. It contains 1,600,000 tweets extracted using the twitter api .
 The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment using Natural Lnaguage Processing(NLP)
 
 ### Content
